@@ -1,0 +1,1 @@
+Modified node-notifier for custom icons in mac
