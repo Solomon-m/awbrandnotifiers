@@ -9,9 +9,9 @@
 	<key>CFBundleExecutable</key>
 	<string>AnswerConnect</string>
 	<key>CFBundleIconFile</key>
-	<string>ansicons</string>
+	<string>awicons</string>
 	<key>CFBundleIdentifier</key>
-	<string>nl.superalloy.oss.awnewans.7.1.18</string>
+	<string>terminal-notifier.awnewac.0.5.41</string>
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundleName</key>

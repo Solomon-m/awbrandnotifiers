@@ -9,9 +9,9 @@
 	<key>CFBundleExecutable</key>
 	<string>LexReception</string>
 	<key>CFBundleIconFile</key>
-	<string>awicnslr</string>
+	<string>awiconslr</string>
 	<key>CFBundleIdentifier</key>
-	<string>nl.superalloy.oss.awicnslr.7.1.18</string>
+	<string>terminal-notifier.awnewlr.0.5.35</string>
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundleName</key>

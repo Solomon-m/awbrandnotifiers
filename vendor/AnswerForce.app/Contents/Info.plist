@@ -9,9 +9,9 @@
 	<key>CFBundleExecutable</key>
 	<string>AnswerForce</string>
 	<key>CFBundleIconFile</key>
-	<string>awnewansf</string>
+	<string>awiconsaf</string>
 	<key>CFBundleIdentifier</key>
-	<string>nl.superalloy.oss.awnewansf.7.1.18</string>
+	<string>terminal-notifier.awnewaf.0.5.42</string>
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundleName</key>

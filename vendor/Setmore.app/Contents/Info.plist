@@ -9,9 +9,9 @@
 	<key>CFBundleExecutable</key>
 	<string>Setmore</string>
 	<key>CFBundleIconFile</key>
-	<string>awicnssm</string>
+	<string>awiconssm</string>
 	<key>CFBundleIdentifier</key>
-	<string>nl.superalloy.oss.awicnssm.7.1.18</string>
+	<string>terminal-notifier.awnewsm.0.5.46</string>
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundleName</key>
